@@ -1,4 +1,4 @@
-// Используем новое имя, чтобы избежать ошибки "Already declared"
+
 const initApp = () => {
     // 1. Проверка библиотек
     if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') {
